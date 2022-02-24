@@ -1,0 +1,5 @@
+version: 1
+type: pipeline-template
+templateType: MULTIBRANCH
+name: cloudbuilder_template
+description: cloudbuilder template
